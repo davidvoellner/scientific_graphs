@@ -118,6 +118,9 @@ R is used for plotting and layout composition with **ggplot2** and **patchwork**
 
 ## Author
 
-**David Voellner**\
+David Voellner
+
+## Data
 Map and analysis based on OSM data and local building datasets.
+
 
