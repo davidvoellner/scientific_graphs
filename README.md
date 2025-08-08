@@ -1,5 +1,6 @@
 # Urban Compactness and Street Network Analysis — Gardinia City, New Cairo
 
+This repository is part of the **Scientific Graphs** course held at the **Earth Observation Research Cluster**.
 This project analyzes **urban form** and **street network characteristics** in **Gardinia City, New Cairo** using a combination of Python (Jupyter Notebook) and R for spatial analysis and visualization.\
 It focuses on two key metrics:
 
@@ -122,6 +123,7 @@ David Voellner
 
 ## Data
 Map and analysis based on OSM data and local building datasets.
+
 
 
 
