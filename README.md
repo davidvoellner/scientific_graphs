@@ -1,10 +1,3 @@
----
-title: "README.md"
-author: "David Voellner"
-date: "`r Sys.Date()`"
-output: html_document
----
-
 # Urban Compactness and Street Network Analysis — Gardinia City, New Cairo
 
 This project analyzes **urban form** and **street network characteristics** in **Gardinia City, New Cairo** using a combination of Python (Jupyter Notebook) and R for spatial analysis and visualization.\
@@ -127,3 +120,4 @@ R is used for plotting and layout composition with **ggplot2** and **patchwork**
 
 **David Voellner**\
 Map and analysis based on OSM data and local building datasets.
+
