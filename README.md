@@ -108,9 +108,9 @@ R is used for plotting and layout composition with **ggplot2** and **patchwork**
 ## **Visualization**
 
 -   **Description**:
-    1.  Combined map of buildings + street network + histograms.
-    2.  Neighbor distance distribution plots for structured vs. unstructured areas.
-    3.  Betweenness centrality within two neighborhoods of Gardinia City, Cairo.
+    -  Combined map of buildings + street network + histograms.
+    -  Neighbor distance distribution plots for structured vs. unstructured areas.
+    -  Betweenness centrality within two neighborhoods of Gardinia City, Cairo.
 
 ![Plot of the final_map with buildings, street network colored in the betweenness centrality of each node and histograms describing the urban compactness of the neighborhoods](figure/final_plot.png)
 
@@ -122,5 +122,6 @@ David Voellner
 
 ## Data
 Map and analysis based on OSM data and local building datasets.
+
 
 
